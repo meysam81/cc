@@ -1,7 +1,7 @@
 ---
 name: seo-write
 description: Write a complete SEO-optimized blog post from an approved outline, research brief, and brand voice. Produces a publish-ready draft with schema markup.
-model: sonnet
+model: opus
 ---
 
 # SEO Blog Post Writer

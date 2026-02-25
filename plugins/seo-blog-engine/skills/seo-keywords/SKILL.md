@@ -1,7 +1,7 @@
 ---
 name: seo-keywords
 description: Perform keyword research and SERP analysis using DataForSEO MCP tools. Analyzes search volume, difficulty, intent, trends, and competitor gaps.
-model: sonnet
+model: opus
 tools:
   - mcp__dataforseo__dataforseo_labs_google_keyword_suggestions
   - mcp__dataforseo__dataforseo_labs_google_keyword_ideas

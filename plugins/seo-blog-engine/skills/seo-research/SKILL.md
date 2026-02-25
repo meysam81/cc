@@ -1,7 +1,7 @@
 ---
 name: seo-research
 description: Generate a deep research prompt for Claude.ai to gather facts, stats, expert quotes, and competitor analysis for a blog post topic
-model: sonnet
+model: opus
 ---
 
 # SEO Deep Research Prompt Generator
