@@ -1,7 +1,6 @@
 ---
 name: seo-optimize
 description: Post-publish validation using DataForSEO tools. Checks Lighthouse scores, on-page SEO verification, ranking position, and AI search visibility.
-model: opus
 tools:
   - mcp__dataforseo__on_page_content_parsing
   - mcp__dataforseo__on_page_lighthouse

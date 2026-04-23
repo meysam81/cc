@@ -1,7 +1,6 @@
 ---
 name: seo-internal-linking
 description: Audit all site pages and generate readability-first internal linking recommendations. Uses subagents for content exploration, then orchestrates keyword mapping and link placement.
-model: opus
 ---
 
 # Internal Linking Audit & Recommendations

@@ -1,7 +1,6 @@
 ---
 name: seo-social
 description: Generate platform-specific social media posts from a blog draft. Covers X, Bluesky, Mastodon, LinkedIn, Reddit, Patreon, and Buy Me a Coffee in 3 tiers (short-form, long-form, patronage).
-model: opus
 ---
 
 # Social Media Post Generator

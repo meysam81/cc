@@ -1,7 +1,6 @@
 ---
 name: seo-backlink-outreach
 description: Analyze site pages, discover backlink prospects via SERP analysis and web search, and generate A/B outreach email templates with spintax and follow-up sequences.
-model: opus
 tools:
   - mcp__dataforseo__serp_organic_live_advanced
   - mcp__dataforseo__backlinks_summary

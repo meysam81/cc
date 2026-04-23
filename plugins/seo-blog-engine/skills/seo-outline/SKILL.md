@@ -1,7 +1,6 @@
 ---
 name: seo-outline
 description: Create a detailed content brief and outline from research and keyword data. Generates heading hierarchy, word count targets, keyword assignments, and schema plan.
-model: opus
 ---
 
 # SEO Content Outline Generator

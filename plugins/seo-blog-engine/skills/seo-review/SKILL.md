@@ -1,7 +1,6 @@
 ---
 name: seo-review
 description: Audit a blog post draft against SEO best practices with a 100-point scoring rubric. Identifies specific issues and provides fix recommendations.
-model: opus
 ---
 
 # SEO Blog Post Review & Audit
